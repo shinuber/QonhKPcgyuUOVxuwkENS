@@ -2,10 +2,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.440923,
@@ -17,10 +14,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409035,
@@ -32,10 +26,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417985,
@@ -47,10 +38,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405593,
@@ -62,10 +50,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.431748,
@@ -77,10 +62,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.450911,
@@ -92,10 +74,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.445295,
@@ -107,10 +86,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.436483,
@@ -122,10 +98,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.418406,
@@ -137,10 +110,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.429072,
@@ -152,10 +122,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.426171,
@@ -167,10 +134,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407172,
@@ -182,10 +146,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.396156,
@@ -197,10 +158,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.481444,
@@ -212,10 +170,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.420149,
@@ -227,10 +182,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.41172,
@@ -242,10 +194,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.488708,
@@ -257,10 +206,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.414007,
@@ -272,10 +218,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.397262,
@@ -287,10 +230,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411487,
@@ -302,10 +242,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.460785,
@@ -317,10 +254,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.42295,
@@ -332,10 +266,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417088,
@@ -347,10 +278,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405474,
@@ -362,10 +290,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.394426,
@@ -377,10 +302,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.404049,
@@ -392,10 +314,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407244,
@@ -407,10 +326,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.414316,
@@ -422,10 +338,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.508021,
@@ -437,10 +350,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.499029,
@@ -452,10 +362,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.488282,
@@ -467,10 +374,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.419106,
@@ -482,10 +386,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.45848,
@@ -497,10 +398,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.499412,
@@ -512,10 +410,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.495378,
@@ -527,10 +422,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415537,
@@ -542,10 +434,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417879,
@@ -557,10 +446,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422382,
@@ -572,10 +458,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.507064,
@@ -587,10 +470,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.418522,
@@ -602,10 +482,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402482,
@@ -617,10 +494,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.431043,
@@ -632,10 +506,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.499989,
@@ -647,10 +518,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415804,
@@ -662,10 +530,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.400545,
@@ -677,10 +542,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.4081,
@@ -692,10 +554,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409576,
@@ -707,10 +566,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.412367,
@@ -722,10 +578,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.507829,
@@ -737,10 +590,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415669,
@@ -752,10 +602,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.461555,
@@ -767,10 +614,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.420325,
@@ -782,10 +626,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.429996,
@@ -797,10 +638,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.41049,
@@ -812,10 +650,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.425024,
@@ -827,10 +662,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.401884,
@@ -842,10 +674,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411105,
@@ -857,10 +686,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.486796,
@@ -872,10 +698,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.458125,
@@ -887,10 +710,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.45048,
@@ -902,10 +722,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.398489,
@@ -917,10 +734,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407435,
@@ -932,10 +746,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417066,
@@ -947,10 +758,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.46233,
@@ -962,10 +770,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.39651,
@@ -977,10 +782,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.406081,
@@ -992,10 +794,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415196,
@@ -1007,10 +806,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.43057,
@@ -1022,10 +818,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.433277,
@@ -1037,10 +830,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.420413,
@@ -1052,10 +842,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.428541,
@@ -1067,10 +854,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.398872,
@@ -1082,10 +866,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.441687,
@@ -1097,10 +878,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.408653,
@@ -1112,10 +890,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.399015,
@@ -1127,10 +902,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422311,
@@ -1142,10 +914,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.43601,
@@ -1157,10 +926,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.427448,
@@ -1172,10 +938,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.403133,
@@ -1187,10 +950,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.403031,
@@ -1202,10 +962,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.427022,
@@ -1217,10 +974,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.42445,
@@ -1232,10 +986,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.397722,
@@ -1247,10 +998,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411131,
@@ -1262,10 +1010,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.40537,
@@ -1277,10 +1022,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.41518,
@@ -1292,10 +1034,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.394855,
@@ -1307,10 +1046,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.421044,
@@ -1322,10 +1058,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.387049,
@@ -1337,10 +1070,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417312,
@@ -1352,10 +1082,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.414762,
@@ -1367,10 +1094,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.441928,
@@ -1382,10 +1106,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.442452,
@@ -1397,10 +1118,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.398864,
@@ -1412,10 +1130,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.390219,
@@ -1427,10 +1142,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.477996,
@@ -1442,10 +1154,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.483552,
@@ -1457,10 +1166,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.410107,
@@ -1472,10 +1178,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.47571,
@@ -1487,10 +1190,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.437338,
@@ -1502,10 +1202,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.395564,
@@ -1517,10 +1214,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.498265,
@@ -1532,10 +1226,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407261,
@@ -1547,10 +1238,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.50018,
@@ -1562,10 +1250,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411131,
@@ -1577,10 +1262,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.454459,
@@ -1592,10 +1274,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.502092,
@@ -1607,10 +1286,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.40193,
@@ -1622,10 +1298,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.40254,
@@ -1637,10 +1310,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415916,
@@ -1652,10 +1322,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411255,
@@ -1667,10 +1334,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417132,
@@ -1682,10 +1346,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407104,
@@ -1697,10 +1358,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.399254,
@@ -1712,10 +1370,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.396095,
@@ -1727,10 +1382,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.400401,
@@ -1742,10 +1394,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422765,
@@ -1757,10 +1406,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.418846,
@@ -1772,10 +1418,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.391366,
@@ -1787,10 +1430,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.443599,
@@ -1802,10 +1442,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.42321,
@@ -1817,10 +1454,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.394667,
@@ -1832,10 +1466,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.408079,
@@ -1847,10 +1478,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417011,
@@ -1862,10 +1490,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417258,
@@ -1877,10 +1502,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.459331,
@@ -1892,10 +1514,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.399113,
@@ -1907,10 +1526,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409226,
@@ -1922,10 +1538,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.419926,
@@ -1937,10 +1550,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.436956,
@@ -1952,10 +1562,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.419217,
@@ -1967,10 +1574,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.404753,
@@ -1982,10 +1586,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.440741,
@@ -1997,10 +1598,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411894,
@@ -2012,10 +1610,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.423338,
@@ -2027,10 +1622,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.434968,
@@ -2042,10 +1634,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.400783,
@@ -2057,10 +1646,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.414486,
@@ -2072,10 +1658,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.428466,
@@ -2087,10 +1670,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.386203,
@@ -2102,10 +1682,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.477639,
@@ -2117,10 +1694,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409248,
@@ -2132,10 +1706,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.4059,
@@ -2147,10 +1718,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405474,
@@ -2162,10 +1730,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405709,
@@ -2177,10 +1742,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.50477,
@@ -2192,10 +1754,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.432291,
@@ -2207,10 +1766,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.437902,
@@ -2222,10 +1778,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.40743,
@@ -2237,10 +1790,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.429836,
@@ -2252,10 +1802,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.413398,
@@ -2267,10 +1814,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422088,
@@ -2282,10 +1826,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.40266,
@@ -2297,10 +1838,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.471505,
@@ -2312,10 +1850,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405498,
@@ -2327,10 +1862,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402625,
@@ -2342,10 +1874,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422728,
@@ -2357,10 +1886,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.429505,
@@ -2372,10 +1898,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.39684,
@@ -2387,10 +1910,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.394315,
@@ -2402,10 +1922,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.397351,
@@ -2417,10 +1934,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.420566,
@@ -2432,10 +1946,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405326,
@@ -2447,10 +1958,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.404552,
@@ -2462,10 +1970,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.440031,
@@ -2477,10 +1982,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.468887,
@@ -2492,10 +1994,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.396912,
@@ -2507,10 +2006,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422862,
@@ -2522,10 +2018,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.389645,
@@ -2537,10 +2030,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.408742,
@@ -2552,10 +2042,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.438868,
@@ -2567,10 +2054,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407444,
@@ -2582,10 +2066,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.494443,
@@ -2597,10 +2078,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.50247,
@@ -2612,10 +2090,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411713,
@@ -2627,10 +2102,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.462501,
@@ -2642,10 +2114,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407331,
@@ -2657,10 +2126,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.399585,
@@ -2672,10 +2138,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402423,
@@ -2687,10 +2150,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.406135,
@@ -2702,10 +2162,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.398141,
@@ -2717,10 +2174,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.4975,
@@ -2732,10 +2186,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405349,
@@ -2747,10 +2198,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405019,
@@ -2762,10 +2210,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417616,
@@ -2777,10 +2222,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402312,
@@ -2792,10 +2234,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.400493,
@@ -2807,10 +2246,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.4069,
@@ -2822,10 +2258,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.396095,
@@ -2837,10 +2270,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.403128,
@@ -2852,10 +2282,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.41709,
@@ -2867,10 +2294,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402243,
@@ -2882,10 +2306,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.400401,
@@ -2897,10 +2318,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.477166,
@@ -2912,10 +2330,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.427881,
@@ -2927,10 +2342,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.473034,
@@ -2942,10 +2354,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.393354,
@@ -2957,10 +2366,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.404637,
@@ -2972,10 +2378,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.41285,
@@ -2987,10 +2390,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405523,
@@ -3002,10 +2402,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.424067,
@@ -3017,10 +2414,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422677,
@@ -3032,10 +2426,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.503234,
@@ -3047,10 +2438,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.40215,
@@ -3062,10 +2450,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.395702,
@@ -3077,10 +2462,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.407831,
@@ -3092,10 +2474,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.400136,
@@ -3107,10 +2486,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.463477,
@@ -3122,10 +2498,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.419926,
@@ -3137,10 +2510,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402694,
@@ -3152,10 +2522,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.433896,
@@ -3167,10 +2534,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.476475,
@@ -3182,10 +2546,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.418624,
@@ -3197,10 +2558,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.503048,
@@ -3212,10 +2570,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.474181,
@@ -3227,10 +2582,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.391226,
@@ -3242,10 +2594,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.41723,
@@ -3257,10 +2606,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409374,
@@ -3272,10 +2618,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.420644,
@@ -3287,10 +2630,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.483809,
@@ -3302,10 +2642,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.482209,
@@ -3317,10 +2654,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.444363,
@@ -3332,10 +2666,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411354,
@@ -3347,10 +2678,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.410726,
@@ -3362,10 +2690,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.436191,
@@ -3377,10 +2702,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.42943,
@@ -3392,10 +2714,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.434806,
@@ -3407,10 +2726,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.427543,
@@ -3422,10 +2738,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415209,
@@ -3437,10 +2750,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.390027,
@@ -3452,10 +2762,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.414007,
@@ -3467,10 +2774,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.403133,
@@ -3482,10 +2786,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.396964,
@@ -3497,10 +2798,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.391946,
@@ -3512,10 +2810,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.437864,
@@ -3527,10 +2822,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.419606,
@@ -3542,10 +2834,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.424184,
@@ -3557,10 +2846,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.426014,
@@ -3572,10 +2858,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.398591,
@@ -3587,10 +2870,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.420032,
@@ -3602,10 +2882,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.392373,
@@ -3617,10 +2894,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.398237,
@@ -3632,10 +2906,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.394552,
@@ -3647,10 +2918,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415432,
@@ -3662,10 +2930,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.399207,
@@ -3677,10 +2942,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.412831,
@@ -3692,10 +2954,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.39825,
@@ -3707,10 +2966,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.395328,
@@ -3722,10 +2978,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.415669,
@@ -3737,10 +2990,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.444525,
@@ -3752,10 +3002,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.401556,
@@ -3767,10 +3014,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.411869,
@@ -3782,10 +3026,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.435953,
@@ -3797,10 +3038,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.40739,
@@ -3812,10 +3050,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.398311,
@@ -3827,10 +3062,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402772,
@@ -3842,10 +3074,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422191,
@@ -3857,10 +3086,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.399023,
@@ -3872,10 +3098,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.402134,
@@ -3887,10 +3110,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.422039,
@@ -3902,10 +3122,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.400725,
@@ -3917,10 +3134,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.417551,
@@ -3932,10 +3146,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.428307,
@@ -3947,10 +3158,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409572,
@@ -3962,10 +3170,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.424392,
@@ -3977,10 +3182,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.468064,
@@ -3992,10 +3194,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.431366,
@@ -4007,10 +3206,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.482973,
@@ -4022,10 +3218,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409937,
@@ -4037,10 +3230,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.399212,
@@ -4052,10 +3242,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.510698,
@@ -4067,10 +3254,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.491766,
@@ -4082,10 +3266,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.432482,
@@ -4097,10 +3278,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.489472,
@@ -4112,10 +3290,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.409576,
@@ -4127,10 +3302,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.455642,
@@ -4142,10 +3314,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.465389,
@@ -4157,10 +3326,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.405711,
@@ -4172,10 +3338,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "price": 15,
-        "type": "Popular"
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -122.443216,
