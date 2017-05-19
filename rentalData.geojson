@@ -1,2 +1,50 @@
-"features": [
-{"type": "Feature", "properties": { “price": Utils.randomNumber(5, 20),"type": Utils.randomChoice("Popular", "Luxury", "Cargo")}, "geometry": {"coordinates": [-122.440923, 37.787674], "type": "Point"}, "id": "004cf9639a472243cfaab8ece83be40f"}
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "price": 19,
+        "type": "lux"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.416651,
+          37.778644
+        ],
+        "type": "Point"
+      },
+      "id": "1b631dc79357f2b08bee98b9bf52eec2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": 17,
+        "type": "cargo"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.41704,
+          37.776941
+        ],
+        "type": "Point"
+      },
+      "id": "39f992c44bdd2ef42bb65e5b0b7d69d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "price": 15,
+        "type": "popular"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.418821,
+          37.777426
+        ],
+        "type": "Point"
+      },
+      "id": "abe9e8e2152f761cbc2118d5f6df9556"
+    }
+  ],
+  "type": "FeatureCollection"
+}
