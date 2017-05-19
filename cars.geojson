@@ -3,8 +3,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -18,8 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -33,8 +33,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -48,8 +48,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -63,8 +63,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -78,8 +78,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -93,8 +93,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -108,8 +108,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -123,8 +123,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -138,8 +138,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -153,8 +153,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -168,8 +168,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -183,8 +183,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -198,8 +198,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -213,8 +213,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -228,8 +228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -243,8 +243,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -258,8 +258,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -273,8 +273,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -288,8 +288,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -303,8 +303,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -318,8 +318,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -333,8 +333,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -348,8 +348,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -363,8 +363,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -378,8 +378,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -393,8 +393,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -408,8 +408,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -423,8 +423,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -438,8 +438,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -453,8 +453,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -468,8 +468,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -483,8 +483,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -498,8 +498,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -513,8 +513,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -528,8 +528,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -543,8 +543,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -558,8 +558,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -573,8 +573,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -588,8 +588,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -603,8 +603,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -618,8 +618,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -633,8 +633,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -648,8 +648,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -663,8 +663,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -678,8 +678,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -693,8 +693,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -708,8 +708,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -723,8 +723,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -738,8 +738,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -753,8 +753,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -768,8 +768,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -783,8 +783,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -798,8 +798,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -813,8 +813,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -828,8 +828,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -843,8 +843,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -858,8 +858,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -873,8 +873,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -888,8 +888,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -903,8 +903,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -918,8 +918,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -933,8 +933,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -948,8 +948,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -963,8 +963,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -978,8 +978,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -993,8 +993,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1008,8 +1008,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1023,8 +1023,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1038,8 +1038,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1053,8 +1053,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1068,8 +1068,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1083,8 +1083,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1098,8 +1098,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1113,8 +1113,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1128,8 +1128,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1143,8 +1143,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1158,8 +1158,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1173,8 +1173,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1188,8 +1188,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1203,8 +1203,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1218,8 +1218,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1233,8 +1233,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1248,8 +1248,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1263,8 +1263,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1278,8 +1278,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1293,8 +1293,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1308,8 +1308,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1323,8 +1323,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1338,8 +1338,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1353,8 +1353,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1368,8 +1368,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1383,8 +1383,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1398,8 +1398,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1413,8 +1413,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1428,8 +1428,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1443,8 +1443,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1458,8 +1458,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1473,8 +1473,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1488,8 +1488,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1503,8 +1503,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1518,8 +1518,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1533,8 +1533,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1548,8 +1548,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1563,8 +1563,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1578,8 +1578,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1593,8 +1593,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1608,8 +1608,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1623,8 +1623,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1638,8 +1638,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1653,8 +1653,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1668,8 +1668,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1683,8 +1683,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1698,8 +1698,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1713,8 +1713,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1728,8 +1728,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1743,8 +1743,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1758,8 +1758,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1773,8 +1773,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1788,8 +1788,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1803,8 +1803,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1818,8 +1818,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1833,8 +1833,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1848,8 +1848,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1863,8 +1863,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1878,8 +1878,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1893,8 +1893,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1908,8 +1908,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1923,8 +1923,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1938,8 +1938,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1953,8 +1953,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1968,8 +1968,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1983,8 +1983,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -1998,8 +1998,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2013,8 +2013,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2028,8 +2028,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2043,8 +2043,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2058,8 +2058,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2073,8 +2073,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2088,8 +2088,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2103,8 +2103,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2118,8 +2118,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2133,8 +2133,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2148,8 +2148,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2163,8 +2163,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2178,8 +2178,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2193,8 +2193,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2208,8 +2208,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2223,8 +2223,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2238,8 +2238,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2253,8 +2253,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2268,8 +2268,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2283,8 +2283,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2298,8 +2298,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2313,8 +2313,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2328,8 +2328,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2343,8 +2343,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2358,8 +2358,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2373,8 +2373,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2388,8 +2388,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2403,8 +2403,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2418,8 +2418,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2433,8 +2433,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2448,8 +2448,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2463,8 +2463,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2478,8 +2478,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2493,8 +2493,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2508,8 +2508,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2523,8 +2523,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2538,8 +2538,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2553,8 +2553,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2568,8 +2568,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2583,8 +2583,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2598,8 +2598,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2613,8 +2613,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2628,8 +2628,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2643,8 +2643,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2658,8 +2658,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2673,8 +2673,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2688,8 +2688,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2703,8 +2703,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2718,8 +2718,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2733,8 +2733,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2748,8 +2748,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2763,8 +2763,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2778,8 +2778,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2793,8 +2793,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2808,8 +2808,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2823,8 +2823,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2838,8 +2838,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2853,8 +2853,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2868,8 +2868,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2883,8 +2883,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2898,8 +2898,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2913,8 +2913,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2928,8 +2928,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2943,8 +2943,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2958,8 +2958,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2973,8 +2973,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -2988,8 +2988,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3003,8 +3003,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3018,8 +3018,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3033,8 +3033,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3048,8 +3048,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3063,8 +3063,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3078,8 +3078,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3093,8 +3093,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3108,8 +3108,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3123,8 +3123,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3138,8 +3138,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3153,8 +3153,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3168,8 +3168,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3183,8 +3183,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3198,8 +3198,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3213,8 +3213,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3228,8 +3228,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3243,8 +3243,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3258,8 +3258,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3273,8 +3273,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3288,8 +3288,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3303,8 +3303,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3318,8 +3318,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3333,8 +3333,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3348,8 +3348,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3363,8 +3363,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3378,8 +3378,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3393,8 +3393,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3408,8 +3408,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3423,8 +3423,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3438,8 +3438,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3453,8 +3453,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3468,8 +3468,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3483,8 +3483,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3498,8 +3498,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3513,8 +3513,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3528,8 +3528,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3543,8 +3543,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3558,8 +3558,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3573,8 +3573,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3588,8 +3588,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3603,8 +3603,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3618,8 +3618,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3633,8 +3633,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3648,8 +3648,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3663,8 +3663,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3678,8 +3678,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3693,8 +3693,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3708,8 +3708,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3723,8 +3723,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3738,8 +3738,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3753,8 +3753,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3768,8 +3768,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3783,8 +3783,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3798,8 +3798,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3813,8 +3813,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3828,8 +3828,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3843,8 +3843,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3858,8 +3858,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3873,8 +3873,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3888,8 +3888,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3903,8 +3903,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3918,8 +3918,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3933,8 +3933,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3948,8 +3948,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3963,8 +3963,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3978,8 +3978,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -3993,8 +3993,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4008,8 +4008,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4023,8 +4023,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4038,8 +4038,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4053,8 +4053,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4068,8 +4068,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4083,8 +4083,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4098,8 +4098,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4113,8 +4113,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4128,8 +4128,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4143,8 +4143,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4158,8 +4158,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
@@ -4173,8 +4173,8 @@
     {
       "type": "Feature",
       "properties": {
-        "price": Utils.randomNumber(5, 20),
-        "type": Utils.randomChoice("Popular", "Luxury", "Cargo")
+        "price": 15,
+        "type": Popular
       },
       "geometry": {
         "coordinates": [
