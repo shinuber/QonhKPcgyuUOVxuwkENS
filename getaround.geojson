@@ -1245,6 +1245,7 @@
 		"geometry": {
         	"coordinates": [-122.4076599, 37.77413019999999], "type": "Point"
         	}
+    },
 	{
 			"type": "Feature",
 		"properties": {},
