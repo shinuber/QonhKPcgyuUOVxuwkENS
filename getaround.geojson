@@ -2,11 +2,7 @@
   "features": [
 	{
 		"type": "Feature",
-		"properties": {
-			"marker-size": "medium",
-	        "marker-symbol": "bus",
-	        "marker-color": "#ace"
-		},
+		"properties": {},
 		"geometry": {
         	"coordinates": [-122.43657999999999, 37.7761261], "type": "Point"
         	}
