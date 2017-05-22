@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="42px" viewBox="0 0 46 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy 39</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-46.7%" y="-37.0%" width="196.7%" height="203.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="HiFi-v6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-39" filter="url(#filter-1)" transform="translate(8.000000, 4.000000)" fill="#4A90E2">
+            <rect id="Combined-Shape" x="0" y="0" width="30" height="23" rx="1"></rect>
+            <path d="M15.7071068,23.7071068 L19,27 L11,27 L14.2928932,23.7071068 L14.2928932,23.7071068 C14.6834175,23.3165825 15.3165825,23.3165825 15.7071068,23.7071068 Z" id="Triangle" transform="translate(15.000000, 25.000000) scale(1, -1) translate(-15.000000, -25.000000) "></path>
+        </g>
+    </g>
+</svg>
